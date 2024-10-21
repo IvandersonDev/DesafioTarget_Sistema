@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://imgur.com/JbV2rfH.png" alt="Logo da Target Sistemas">
+</p>
+
 # Desafio Tech - Target Sistemas
 
 Este repositório contém a solução para o **Desafio Tech** proposto pela **Target Sistemas**. O desafio envolve a implementação de algoritmos em Java para resolver diferentes problemas técnicos, incluindo lógica de programação, análise de strings, cálculo de sequências, e um problema clássico de interruptores e lâmpadas.
